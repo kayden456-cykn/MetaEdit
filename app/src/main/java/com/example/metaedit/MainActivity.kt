@@ -95,4 +95,74 @@ class MainActivity : Activity() {
             val res = if (q.isEmpty()) IntArray(litCount) { it } else {
                 val out = ArrayList<Int>()
                 for (i in 0 until litCount) {
-                    if (mýäôÑ½­¸¤ÉÑÕÉ¹Ñ¡É(¥¡ÕÉÉ¹Ð¡¤¤¹½¹Ñ¥¹Ì¡Ä°¥¹½ÉÍôÑÉÕ¤¤½ÕÐ¹¡¤¤(ô(½ÕÐ¹Ñ½%¹ÑÉÉä ¤(ô(ÉÕ¹=¹U¥Q¡Éì¥¡µäôôÑ½­¸¤ìÍ¡½Ý¸ôÉÌìÁÑÈ¹¹½Ñ¥åÑMÑ¡¹ ¤ôô(ô(ô((ÁÉ¥ÙÑÕ¸¥Ñ¥±½¡¤è%¹Ð¤ì(Ù°Ðô¥ÑQáÐ¡Ñ¡¥Ì¤¹ÁÁ±äì(ÍÑQáÐ¡ÕÉÉ¹Ð¡¤¤¤(¥¹ÁÕÑQåÁô%¹ÁÕÑQåÁ¹QeA}1MM}QaP½È%¹ÁÕÑQåÁ¹QeA}QaQ}1}5U1Q%}1%9(ô(±ÉÑ¥±½¹	Õ¥±È¡Ñ¡¥Ì¤¹ÍÑQ¥Ñ± MÑÉ¥¹¤¤¹ÍÑY¥Ü¡Ð¤(¹ÍÑA½Í¥Ñ¥Ù	ÕÑÑ½¸ ÁÁ±ä¤ì|°|´ø(Ù°¸ôÐ¹ÑáÐ¹Ñ½MÑÉ¥¹ ¤(¥¡¸ôô½É¥¥¹°¡¤¤¤¥ÑÌ¹Éµ½Ù¡¤¤±Í¥ÑÍm¥tô¸(ÁÑÈ¹¹½Ñ¥åÑMÑ¡¹ ¤ìÕÁÑMÑÑÕÌ ¤(ô(¹ÍÑ9ÕÑÉ±	ÕÑÑ½¸ IÙÉÐ¤ì|°|´ø¥ÑÌ¹Éµ½Ù¡¤¤ìÁÑÈ¹¹½Ñ¥åÑMÑ¡¹ ¤ìÕÁÑMÑÑÕÌ ¤ô(¹ÍÑ9Ñ¥Ù	ÕÑÑ½¸ ¹°°¹Õ±°¤¹Í¡½Ü ¤(ô((ÁÉ¥ÙÑÕ¸ÕÁÑMÑÑÕÌ ¤ìÍÑÑÕÌ¹ÑáÐô±¥Ñ½Õ¹ÐÍÑÉ¥¹Ì°í¥ÑÌ¹Í¥éô¥Ñô((½ÙÉÉ¥Õ¸½¹Ñ¥Ù¥ÑåIÍÕ±Ð¡ÉÄè%¹Ð°ÉÌè%¹Ð°¤è%¹Ñ¹Ðü¤ì(Ù°ÕÉ¤ô¤ü¹Ñ(¥¡ÉÌôIMU1Q}=,ñðÕÉ¤ôô¹Õ±°¤ÉÑÕÉ¸(¥¡ÉÄôôÄ¤±½¡ÕÉ¤¤±Í¥¡ÉÄôôÈ¤ÍÙ¡ÕÉ¤¤(ô((ÁÉ¥ÙÑÕ¸±½¡ÕÉ¤èUÉ¤¤ì(ÍÑÑÕÌ¹ÑáÐô1½¥¹¸¸¸(Ñ¡Éì(ÑÉäì(Ù°ô½¹Ñ¹ÑIÍ½±ÙÈ¹½Á¹%¹ÁÕÑMÑÉ´¡ÕÉ¤¤¹ÕÍì¥Ð¹É	åÑÌ ¤ô(¥¡¹Í¥éðÌÈñðÉ¡°À¤ôÁáÄÅ	¹Ñ½%¹Ð ¤¤ìÑ½ÍÐ 9½ÐÙ±¥±½°µµÑÑ¹Ð¡¡Èìµä¹ÉåÁÑ¤¤ìÉÑÕÉ¹Ñ¡Éô(Ù°±¼ôÉ¡°à¤ìÙ°±ÌôÉ¡°ÄÈ¤ìÙ°½ôÉ¡°ÄØ¤(¥¡±¼ðôÀñð±ÌðÀñð±¼¬±Ìø¹Í¥éñð½ðôÀñð½ø¹Í¥é¤ìÑ½ÍÐ U¹ÍÕÁÁ½ÉÑ¡È±å½ÕÐ¤ìÉÑÕÉ¹Ñ¡Éô(Ñôì±¥Ñ=ô±¼ì±¥Ñ½Õ¹Ðô±Ì¼àìÑ=ô½ì¥ÑÌ¹±È ¤(ÉÕ¹=¹U¥Q¡ÉìÍÉ ¹ÍÑQáÐ ¤ìÕÁÑMÑÑÕÌ ¤ìÑ½­¸¬¬ìÍ¡½Ý¸ô%¹ÑÉÉä¡±¥Ñ½Õ¹Ð¤ì¥ÐôìÁÑÈ¹¹½Ñ¥åÑMÑ¡¹ ¤ô(ôÑ ¡èáÁÑ¥½¸¤ìÑ½ÍÐ 1½¥±èí¹µÍÍô¤ô(ô(ô((¼¼¥ÑÍÑÉ¥¹ÌÉÁÁ¹Ñ¼Ñ¡¹½Ñ¡¥±¹Ñ¡¥ÈÑ±¹ÑÉ¥ÌÉÁ½¥¹Ñ°(¼¼Í¼¹¼½Ñ¡ÈÍÑ¥½¸Ì½ÍÑÌÍ¡¥Ð¸(ÁÉ¥ÙÑÕ¸ÍÙ¡ÕÉ¤èUÉ¤¤ì(ÍÑÑÕÌ¹ÑáÐôMÙ¥¹¸¸¸(Ñ¡Éì(ÑÉäì(Ù°ÍÉôÑ(Ù°½ÕÐôÍÉ¹½Áå= ¤(Ù°Ñ¥°ô	åÑÉÉå=ÕÑÁÕÑMÑÉ´ ¤(ÙÈÁ½ÌôÍÉ¹Í¥é(Ù°Áô Ð´Á½ÌÐ¤Ð(ÉÁÐ¡Á¤ìÑ¥°¹ÝÉ¥Ñ À¤ôìÁ½Ì¬ôÁ(½È ¡¤°Ì¤¥¸¥ÑÌ¤ì(Ù°ôÌ¹Ñ½	åÑÉÉä¡¡ÉÍÑÌ¹UQ|à¤(ÝÈ¡½ÕÐ°±¥Ñ=¬¤¨à°¹Í¥é¤(ÝÈ¡½ÕÐ°±¥Ñ=¬¤¨à¬Ð°Á½Ì´Ñ=¤(Ñ¥°¹ÝÉ¥Ñ¡¤ìÁ½Ì¬ô¹Í¥é(ô(½¹Ñ¹ÑIÍ½±ÙÈ¹½Á¹=ÕÑÁÕÑMÑÉ´¡ÕÉ¤°ÝÐ¤¹ÕÍì¥Ð¹ÝÉ¥Ñ¡½ÕÐ¤ì¥Ð¹ÝÉ¥Ñ¡Ñ¥°¹Ñ½	åÑÉÉä ¤¤ô(Ñ½ÍÐ MÙ í¥ÑÌ¹Í¥éô¥ÑÌ¤¤(ÉÕ¹=¹U¥Q¡ÉìÕÁÑMÑÑÕÌ ¤ô(ôÑ ¡èáÁÑ¥½¸¤ìÑ½ÍÐ MÙ¥±èí¹µÍÍô¤ô(ô(ô)ô(ÿÿÿ
+                    if (my != token) return@thread
+                    if (current(i).contains(q, ignoreCase = true)) out.add(i)
+                }
+                out.toIntArray()
+            }
+            runOnUiThread { if (my == token) { shown = res; adapter.notifyDataSetChanged() } }
+        }
+    }
+
+    private fun editDialog(i: Int) {
+        val et = EditText(this).apply {
+            setText(current(i))
+            inputType = InputType.TYPE_CLASS_TEXT or InputType.TYPE_TEXT_FLAG_MULTI_LINE
+        }
+        AlertDialog.Builder(this).setTitle("String #$i").setView(et)
+            .setPositiveButton("Apply") { _, _ ->
+                val n = et.text.toString()
+                if (n == original(i)) edits.remove(i) else edits[i] = n
+                adapter.notifyDataSetChanged(); updateStatus()
+            }
+            .setNeutralButton("Revert") { _, _ -> edits.remove(i); adapter.notifyDataSetChanged(); updateStatus() }
+            .setNegativeButton("Cancel", null).show()
+    }
+
+    private fun updateStatus() { status.text = "$litCount strings, ${edits.size} edited" }
+
+    override fun onActivityResult(req: Int, res: Int, i: Intent?) {
+        val uri = i?.data
+        if (res != RESULT_OK || uri == null) return
+        if (req == 1) load(uri) else if (req == 2) save(uri)
+    }
+
+    private fun load(uri: Uri) {
+        status.text = "Loading..."
+        thread {
+            try {
+                val b = contentResolver.openInputStream(uri)!!.use { it.readBytes() }
+                if (b.size < 32 || rd(b, 0) != 0xFAB11BAF.toInt()) { toast("Not a valid global-metadata.dat (bad header; may be encrypted)"); return@thread }
+                val lo = rd(b, 8); val ls = rd(b, 12); val dof = rd(b, 16)
+                if (lo <= 0 || ls < 0 || lo + ls > b.size || dof <= 0 || dof > b.size) { toast("Unsupported header layout"); return@thread }
+                data = b; litOff = lo; litCount = ls / 8; dataOff = dof; edits.clear()
+                runOnUiThread { search.setText(""); updateStatus(); token++; shown = IntArray(litCount) { it }; adapter.notifyDataSetChanged() }
+            } catch (e: Exception) { toast("Load failed: ${e.message}") }
+        }
+    }
+
+    // Edited strings are appended to the end of the file and their table entries repointed,
+    // so no other section's offsets shift.
+    private fun save(uri: Uri) {
+        status.text = "Saving..."
+        thread {
+            try {
+                val src = data!!
+                val out = src.copyOf()
+                val tail = ByteArrayOutputStream()
+                var pos = src.size
+                val pad = (4 - pos % 4) % 4
+                repeat(pad) { tail.write(0) }; pos += pad
+                for ((i, s) in edits) {
+                    val b = s.toByteArray(Charsets.UTF_8)
+                    wr(out, litOff + i * 8, b.size)
+                    wr(out, litOff + i * 8 + 4, pos - dataOff)
+                    tail.write(b); pos += b.size
+                }
+                contentResolver.openOutputStream(uri, "wt")!!.use { it.write(out); it.write(tail.toByteArray()) }
+                toast("Saved (${edits.size} edits)")
+                runOnUiThread { updateStatus() }
+            } catch (e: Exception) { toast("Save failed: ${e.message}") }
+        }
+    }
+}
